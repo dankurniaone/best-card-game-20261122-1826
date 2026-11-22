@@ -1,0 +1,9 @@
+kit/
+kit.tar.gz
+kit-manifest.json
+requirements.json
+out/
+out2/
+transcripts.tar.gz
+*.jsonl
+node_modules/
